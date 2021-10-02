@@ -15,13 +15,14 @@
         Agora chegou a hora de treinar um pouco o uso de imagens, parágrafos e quebra de linhas.
     </p>
     <p>
-        <img src="mapa03.png" alt="1"> <img src="mapa07.png" alt="2"> <img src="mapa05.png" alt="3">
-    </p>
-    <p>
-        <img src="mapa09.png" alt="4"> <img src="mapa01.png" alt="5"> <img src="mapa08.png" alt="6">
-    </p>
-    <p>
-        <img src="mapa06.png" alt="7"> <img src="mapa02.png" alt="8"> <img src="mapa04.png" alt="9">
-    </p>
+        <img src="mapa03.png" alt="1"> <img src="mapa07.png" alt="2"> <img src="mapa05.png" alt="3"> <br>
+    
+    
+        <img src="mapa09.png" alt="4"> <img src="mapa01.png" alt="5"> <img src="mapa08.png" alt="6"> <br>
+    
+
+        <img src="mapa06.png" alt="7"> <img src="mapa02.png" alt="8"> <img src="mapa04.png" alt="9"> <br>
+    </p>    
+    
 </body>
 </html>
