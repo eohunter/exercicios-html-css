@@ -22,21 +22,51 @@
     --font-android: 'Android', 'cursive';
 }
 
+* {
+    margin: 1px;
+    padding: 1px;
+}
+
 body {
         background-color: var(--cor0);
         font-family: var(--fonte-padrao);
 }
 
+header {
+    background-color: var(--cor4);
+}
+
 header > h1 {
-    color: var(--cor3);
+    color: white;
     font-family: var(--fonte-destaque);
 }
 
-main > h1 {
+header > p {
+    color: white;
+}
+
+nav {
+    background-color: var(--cor5);
+}
+
+nav > a {
+    color: white;
+}
+
+main {
+    background-color: white;
+}
+
+main > article > h1 {
     color: var(--cor3);
     font-family: var(--font-android);
 }
 
-main > h2 {
+main > article > h2 {
     font-family: var(--font-android);
+}
+
+footer {
+    background-color: var(--cor5);
+    color: white;
 }
